@@ -1,0 +1,4 @@
+source 'https://github.com/CocoaPods/Specs.git'
+target 'ShoppingCart' do
+    pod 'GoogleMaps'
+end

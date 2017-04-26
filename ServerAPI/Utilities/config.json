@@ -1,0 +1,10 @@
+{
+  "DBManager": {
+    "connection": {
+      "host": "localhost",
+      "user": "root",
+      "password": "Karemsocola@580435",
+      "database": "system_engine_bot_db"
+    }
+  }
+}
